@@ -7,8 +7,8 @@ A project to create ebook (ePub) of Tamil Roman Catholic Bible using MySQL datab
 * **Compatible** - Works with most eBook readers. Please use [calibre](https://calibre-ebook.com/download) to convert to other desired formats like .mobi etc.,.
 
 It uses the following libraries:
-* [php-epub-creator](https://github.com/luizomf/php-epub-creator) - 
-* [Medoo](https://github.com/catfan/Medoo) - MySql Library
+* [php-epub-creator](https://github.com/luizomf/php-epub-creator)
+* [Medoo](https://github.com/catfan/Medoo)
 
 ## Known Issues
 * Red lettering should be implemented in future
